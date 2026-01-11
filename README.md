@@ -36,7 +36,6 @@ Flask • Node.js • Express • React • MongoDB • MySQL • NumPy • Pand
 - MERN + Flask-based skin analysis and product recommendation system  
 - Users can scan skin, receive AI-driven analysis, and get personalized product suggestions  
 - Collaborated on backend development, API integration, and ML model deployment  
-- GitHub: [Beautify4U](https://github.com/NinadWalke/Beautify4U)
 ---
 
 ## 📫 Connect with Me
