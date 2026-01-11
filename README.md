@@ -43,6 +43,3 @@ Flask • Node.js • Express • React • MongoDB • MySQL • NumPy • Pand
 [LinkedIn](https://www.linkedin.com/in/shweta-shimpi) • [Email](mailto:shi.shwetashimpi406@gmail.com)
 
 ---
-
-## ⭐ GitHub Stats
-![Shweta’s GitHub stats](https://github-readme-stats.vercel.app/api?username=30shwetashimpi&show_icons=true&theme=radical)
