@@ -36,7 +36,7 @@ Flask • Node.js • Express • React • MongoDB • MySQL • NumPy • Pand
 - Full-stack machine learning web application for predicting medical insurance costs based on user health and demographic inputs
 - Uses a Random Forest regression model trained on a Kaggle medical insurance dataset with real-time inference via Flask
 - Features an interactive UI with dynamic form validation, categorical encoding, and live deployment on PythonAnywhere
-- GitHub: https://github.com/30shwetashimpi/medical-insurance-predictor.git
+- GitHub: https://github.com/30shwetashimpi/medical-insurance-predictor
 - Live Demo: https://30shwetashimpi.pythonanywhere.com/
 
 ### 💆 Beautify4U  
