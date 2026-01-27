@@ -32,10 +32,18 @@ Flask • Node.js • Express • React • MongoDB • MySQL • NumPy • Pand
 - Collaborated on backend development, database design, and ML-powered dashboards for actionable insights  
 - GitHub: [SwacchtaAndLiFE](https://github.com/NinadWalke/SwacchtaAndLiFE)
 
+### 🏥 Medical Insurance Charges Predictor
+- Full-stack machine learning web application for predicting medical insurance costs based on user health and demographic inputs
+- Uses a Random Forest regression model trained on a Kaggle medical insurance dataset with real-time inference via Flask
+- Features an interactive UI with dynamic form validation, categorical encoding, and live deployment on PythonAnywhere
+- GitHub: [Medical-Insurance-Predictor]
+- Live Demo: https://30shwetashimpi.pythonanywhere.com/
+
 ### 💆 Beautify4U  
 - MERN + Flask-based skin analysis and product recommendation system  
 - Users can scan skin, receive AI-driven analysis, and get personalized product suggestions  
-- Collaborated on backend development, API integration, and ML model deployment  
+- Collaborated on backend development, API integration, and ML model deployment
+
 ---
 
 ## 📫 Connect with Me
